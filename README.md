@@ -1,2 +1,2 @@
 # FitLog
-我的第一个vibecodting项目
+我的第一个vibecoding项目
